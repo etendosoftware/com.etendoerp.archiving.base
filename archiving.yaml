@@ -1,0 +1,7 @@
+tables:
+  ad_audit_trail:
+    - created
+  fact_acct:
+    - dateacct
+  fact_acct_cfs:
+    - em_etabase_dateacct
