@@ -1,0 +1,7 @@
+<vector>
+  <excludedConstraint name="AD_AUDIT_TRAIL_PK"/>
+  <excludedConstraint name="FACT_ACCT_KEY"/>
+  <excludedConstraint name="FACT_ACCT_CFS_FACT_ACCT"/>
+  <excludedConstraint name="FACT_ACCT_CFS_FACT_ACCT1"/>
+  <excludedConstraint name="FACT_ACCT_CFS_KEY"/>
+</vector>
