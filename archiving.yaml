@@ -1,4 +1,4 @@
-tables:
+tdables:
   ad_audit_trail:
     - created
   fact_acct:
